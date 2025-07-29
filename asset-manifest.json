@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/copilot-prompt-challenge-app/static/css/main.e0ee3b85.css",
-    "main.js": "/copilot-prompt-challenge-app/static/js/main.eba9d96a.js",
+    "main.js": "/copilot-prompt-challenge-app/static/js/main.f9f61285.js",
     "static/js/453.a393f5e8.chunk.js": "/copilot-prompt-challenge-app/static/js/453.a393f5e8.chunk.js",
     "index.html": "/copilot-prompt-challenge-app/index.html",
     "main.e0ee3b85.css.map": "/copilot-prompt-challenge-app/static/css/main.e0ee3b85.css.map",
-    "main.eba9d96a.js.map": "/copilot-prompt-challenge-app/static/js/main.eba9d96a.js.map",
+    "main.f9f61285.js.map": "/copilot-prompt-challenge-app/static/js/main.f9f61285.js.map",
     "453.a393f5e8.chunk.js.map": "/copilot-prompt-challenge-app/static/js/453.a393f5e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ee3b85.css",
-    "static/js/main.eba9d96a.js"
+    "static/js/main.f9f61285.js"
   ]
 }
