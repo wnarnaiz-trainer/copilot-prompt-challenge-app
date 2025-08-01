@@ -2,7 +2,7 @@
   "name": "prompt-challenge-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wnarnaiz-trainer.github.io/copilot-prompt-challenge-app",
+  "homepage": "https://wnarnaiz-trainer.github.io/wnarnaiz-prompt-challenge-qpp",
   "dependencies": {
     "lucide-react": "^0.263.1",
     "postcss": "^8.4.27",
